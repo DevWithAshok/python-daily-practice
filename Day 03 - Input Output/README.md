@@ -6,6 +6,7 @@ Taking user input and displaying output
 
 ## Code
 
+
 ```python id="y7t2kp"
 word1 = input()
 word2 = input()
