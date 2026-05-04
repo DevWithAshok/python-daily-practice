@@ -1,0 +1,16 @@
+A=int(input())
+B=int(input())
+result1=(A<=B)
+print("A <= B is "+str(result1))
+result2=(B<=A)
+print("B <= A is "+str(result2))
+
+w1=input()
+w2=int(input())
+result=(w1[0:w2]!=w1[len(w1)-w2:])
+print(result)
+
+s1=input()
+s2=input()
+result=(s1[:len(s2)]==s2)
+print(result)
