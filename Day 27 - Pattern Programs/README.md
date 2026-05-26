@@ -1,4 +1,4 @@
-# Day 36 - Pattern Programs in Python
+# Day  - Pattern Programs in Python
 
 ## Topic
 
