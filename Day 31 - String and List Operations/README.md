@@ -1,4 +1,4 @@
-# Day 31 - String and List Operations
+# Day 31 - String and List Operations 
 
 ## Topic
 
