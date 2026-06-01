@@ -1,4 +1,4 @@
-# Day 32 - Python Practice
+# Day 32 - Python Practice  
 
 This repository contains two Python practice programs completed as part of my daily Python learning journey.
 
