@@ -8,3 +8,4 @@ for i in N:
         str_ing+=i
 print(str_ing+num)
  
+ 
