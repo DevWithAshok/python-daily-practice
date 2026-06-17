@@ -9,3 +9,4 @@ for i in range((M+N)-1):
         if 0<=check<N:
             new.append(diag_matrix_a[j][check])
     print(*new)
+ 
