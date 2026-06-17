@@ -7,3 +7,4 @@ for i in N:
     else:
         str_ing+=i
 print(str_ing+num)
+ 
