@@ -19,3 +19,4 @@ for i in range(len(N)):
         result=cons_num(value)
         value=result
         print(result)
+ 
